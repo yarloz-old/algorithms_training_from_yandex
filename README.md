@@ -1,1 +1,5 @@
-# algorithms_training_from_yandex
+# [Тренировки по алгоритмам](https://yandex.ru/yaintern/algorithm-training) от Яндекс
+Репозиторий содержит мои варианты решения задач, которые прошли проверку тестированием на платформе [Яндекс.Контест](https://contest.yandex.ru/).
+- Домашнее задание №1. Тема «Сложность, тестирование, особые случаи».  [Задачи](https://contest.yandex.ru/contest/27393/enter/), [Решения]()
+- Домашнее задание №2. Тема «Линейный поиск».  [Задачи](https://contest.yandex.ru/contest/27472/enter/), [Решения]()
+- Домашнее задание №3. Тема «Множества». [Задачи](https://contest.yandex.ru/contest/27663/enter/), [Решения]()
