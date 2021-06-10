@@ -11,7 +11,6 @@ def triangle(first_freq, freqs):
         elif direction == "closer" and prev_freq > freq or direction == "further" and prev_freq < freq:
             right_border = new_border if new_border < right_border else right_border
         prev_freq = freq
-    print([round(left_border, 6), round(right_border, 6)])
     return [round(left_border, 6), round(right_border, 6)]
 
 
